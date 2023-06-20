@@ -1,4 +1,4 @@
-# Snell-s-Law-Simulation
+# Snells Law Simulation
 This simulation is a dynamic representation based on Snell's Law of Refraction, a fundamental principle in optics. The immersive graphics window portrays two distinct regions, visually separated by a central dividing line. These regions symbolize different mediums, each with unique optical properties. At the heart of the simulation, a laser module empowers users to emit beams of vibrant red light with precision and control. By simply left-clicking on the prominent red box located in the upper-left corner of the screen, the laser can be activated or deactivated at will, offering flexibility throughout the simulation.
 
 To further enhance the interactive experience, two vertical blue arrows grace the bottom-left section of the screen. These intuitive controls enable users to finely adjust the angle of incidence, dictating the trajectory of the laser beams as they transition into the subsequent medium. A protractor thoughtfully positioned at the center of the screen serves as a visual aid, providing immediate feedback on the incident angle.
