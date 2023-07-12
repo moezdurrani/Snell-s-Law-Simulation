@@ -1,4 +1,7 @@
 # Snells Law Simulation
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/103555283/163237874-e4f45c8e-0845-4796-998f-848b3098eda2.gif)
+
 This simulation is a dynamic representation based on Snell's Law of Refraction, a fundamental principle in optics. The immersive graphics window portrays two distinct regions, visually separated by a central dividing line. These regions symbolize different mediums, each with unique optical properties. At the heart of the simulation, a laser module empowers users to emit beams of vibrant red light with precision and control. By simply left-clicking on the prominent red box located in the upper-left corner of the screen, the laser can be activated or deactivated at will, offering flexibility throughout the simulation.
 
 To further enhance the interactive experience, two vertical blue arrows grace the bottom-left section of the screen. These intuitive controls enable users to finely adjust the angle of incidence, dictating the trajectory of the laser beams as they transition into the subsequent medium. A protractor thoughtfully positioned at the center of the screen serves as a visual aid, providing immediate feedback on the incident angle.
@@ -10,5 +13,3 @@ Intriguingly, the simulation also accommodates customization, allowing users to 
 Aesthetically pleasing and intuitively designed, the graphics window features captivating orange boxes positioned within both mediums, serving as beacons of pertinent material information. These orange boxes elegantly present the saved material information, creating a seamless integration between visual feedback and user interaction.
 
 Through this immersive and visually engaging simulation, users can explore the intricate dynamics of Snell's Law, gaining invaluable insights into the complex interplay between incident angles, indices of refraction, and the behavior of laser beams.
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/103555283/163237874-e4f45c8e-0845-4796-998f-848b3098eda2.gif)
